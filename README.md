@@ -1,5 +1,9 @@
 # JMESPath für Apache Arrow
 
+Created by Armin Burger
+📍 Rettenbach, Bavaria, Germany
+📅 September 2025
+
 Eine vollständige Rust-Implementierung von JMESPath für Apache Arrow RecordBatches.
 
 ## 🎯 Projektübersicht
